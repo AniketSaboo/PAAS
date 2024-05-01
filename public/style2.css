@@ -1,0 +1,8 @@
+.container{
+    background-color: pink;
+    padding: 0;
+    margin: auto;
+}
+.container a{
+    margin:70px;
+}
