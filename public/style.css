@@ -1,0 +1,22 @@
+.heading1:hover{
+    background-color: peachpuff;
+    color: white;
+    font-style: italic;
+    font-family: cursive;
+}
+
+td:hover{
+    background-color: skyblue;
+}
+.btn:hover:hover{
+    background-color: white;
+    color: blue;
+    
+}
+img:hover{
+    padding: 0;
+    margin: 0;
+    width: 35vw;
+    height: 35vh;
+    align-items: center;
+}
